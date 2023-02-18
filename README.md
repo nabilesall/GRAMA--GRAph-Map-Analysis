@@ -3,6 +3,10 @@ Projet de SAE en C, réalisé en binôme, durant tout le semestre 2 de la 1ère 
 [Le sujet](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SAE-MAP%20Analysis%20SUJET.pdf)
 
 ## Utilisation
+L'application permet de visualiser une carte map sous format d'un graphe en symbolisant les liens entre les nœuds.  
+L'utilisation est assez simple, après avoir lancé l'application vous pouvez utiliser le menu "fichier" pour choisir votre fichier csv ( Raccourci : Ctrl + N).  
+Vous pouvez utiliser le fichier qui vous est fourni pour votre jeu de test(voir Pré-requis ci-dessous).
+Vous retrouverez aussi tous les dossiers liés au projet: Cahier de charges, dossiers de spécifications fonctionnelles etc [dossiers ici](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/Dossier%20de%20gestion)
 
 ### Installation 
 Vous pouvez simplement télécharger le dossier en zip et le mettre dans un dossier ou vous pourrez l'ouvrir après avec votre IDE.
