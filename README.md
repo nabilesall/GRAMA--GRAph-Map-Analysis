@@ -1,5 +1,6 @@
 # GRAMA--GRAph-Map-Analysis
-Projet de SAE en C, réalisé en binôme, durant tout le semestre 2 de la 1ère année de BUT Informatique à l'IUT de Lyon 1.
+Projet de SAE en C, réalisé en binôme, durant tout le semestre 2 de la 1ère année de BUT Informatique à l'IUT de Lyon 1.  
+[Le sujet](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SAE-MAP%20Analysis%20SUJET.pdf)
 
 ## Utilisation
 
@@ -13,8 +14,8 @@ Les données sont stockées dans un fichier csv, vous pouvez donc mettre vos pro
 ```csv
 V,Dakar:A,8034::V,Antananarivo;D,20::V,Guédiawaye;D,10::R,Planet
 ```
-Vous pouvez consulter le [sujet] pour plus d'informations sur le format du fichier csv.  
-Vous pouvez utiliser [ce fichier test] mis à votre disposition.
+Vous pouvez consulter le [sujet](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SAE-MAP%20Analysis%20SUJET.pdf) pour plus d'informations sur le format du fichier csv.  
+Vous pouvez utiliser [ce fichier test](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SaeGrama/SAE%20GRAMA.csv) mis à votre disposition.
 
 ## Auteurs 
 Idrissa SALL et Aro RANDRIAMANANTENA
