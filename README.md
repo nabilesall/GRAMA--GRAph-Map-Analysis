@@ -11,7 +11,7 @@ Vous pouvez utiliser le fichier qui vous est fourni pour votre jeu de test(voir 
 Vous retrouverez aussi tous les dossiers liés au projet: Cahier de charges, dossiers de spécifications fonctionnelles etc [dossiers ici](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/Dossier%20de%20gestion)
 
 ### Installation 
-Vous pouvez simplement télécharger le dossier en zip et le mettre dans un dossier ou vous pourrez l'ouvrir après avec votre IDE.
+Vous pouvez simplement télécharger le dossier [SaeGrama](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/SaeGrama) en zip et le mettre dans un dossier ou vous pourrez l'ouvrir après avec votre IDE.
 
 ### Pré-requis 
 Vous aurez probablement besoin d'un IDE comme NetBeans.  
