@@ -8,7 +8,7 @@ L'utilisation est assez simple, après avoir lancé l'application vous pouvez ut
 Les différents écrans de l'application permettent d'avoir des informations plus détaillées sur le graphe, sur un nœud en particulier ou bien comparer deux nœuds.  
 Ces informations vont de savoir quel nœud est plus ouvert jusqu'à celui qui est plus gastronomique.. D'autres fonctionnalités permettent d'en apprendre un peu plus sur votre graphe, comme par exemple avoir des statistiques sur un nœud sélectionné, et savoir les autres nœuds auxquels il est lié et le genre du nœud ( ville, restaurant, loisir).
 Vous pouvez utiliser le fichier qui vous est fourni pour votre jeu de test(voir Pré-requis ci-dessous).  
-Vous retrouverez aussi tous les dossiers liés au projet: Cahier de charges, dossiers de spécifications fonctionnelles etc [dossiers ici](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/Dossier%20de%20gestion)
+Vous retrouverez aussi tous les dossiers liés à ce projet: Cahier de charges, dossiers de spécifications fonctionnelles etc [dossiers de gestion](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/Dossier%20de%20gestion)
 
 ### Installation 
 Vous pouvez simplement télécharger le dossier [SaeGrama](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/tree/main/SaeGrama) en zip et le mettre dans un dossier ou vous pourrez l'ouvrir après avec votre IDE.
