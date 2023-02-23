@@ -24,4 +24,6 @@ Vous pouvez consulter le [sujet](https://github.com/nabilesall/GRAMA--GRAph-Map-
 Vous pouvez utiliser [ce fichier test](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SaeGrama/SAE%20GRAMA.csv) mis à votre disposition.
 
 ## Auteurs 
+<div align="center>
 Idrissa SALL et Aro RANDRIAMANANTENA
+</div>
