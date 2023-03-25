@@ -1,5 +1,5 @@
 # GRAMA--GRAph-Map-Analysis
-Projet de SAE en C, réalisé en binôme, durant tout le semestre 2 de la 1ère année de BUT Informatique à l'IUT de Lyon 1.  
+Projet de SAE en Java, réalisé en binôme, durant tout le semestre 2 de la 1ère année de BUT Informatique à l'IUT de Lyon 1.  
 [Le sujet](https://github.com/nabilesall/GRAMA--GRAph-Map-Analysis/blob/main/SAE-MAP%20Analysis%20SUJET.pdf)
 
 ## Utilisation
